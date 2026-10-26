@@ -1,9 +1,3 @@
----
-icon: "[[paper-plane.gif]]"
----
-
-![[paper-plane.gif|121]]
-
 **The Papertrail Method**  
 _Build the system. Follow the paper trail._
 
@@ -13,19 +7,7 @@ The result is **systemic fiction**: storytelling through the workings of an imag
 
 Readers discover the world and its characters by following the traces they leave behind.
 
-## ADVANTAGES
 
-- Highly flexible
-- Unique reading experience
-- Choice of **HTML** or **markdown**
-- Can be used on **Wordpress** or **Github**
-- 
-
-**[[CONTENT TYPES]]**
-
-**[[CONTENT CATEGORIES]]**
-
-**[[EXAMPLES]]**
 
 
 
