@@ -4,15 +4,15 @@ MEDIUM: TEXT
 CONTAINS:
   - SPEAKERS
   - MESSAGES
-icon: "[[messages-text.gif]]"
+icon: "messages-text.gif"
 ---
-![[messages-text.gif]]
+![messages-text](messages-text.gif)
 
 
 	- SPEAKERS
 	- MESSAGE CONTENT
 
-**[[CHARACTER]]**
+**[CHARACTER](CHARACTER.md)**
 
 
 

@@ -6,11 +6,11 @@ CONTAINS:
   - HOST
   - EPISODE NUMBER
   - TRANSCRIPT
-icon: "[[interview.gif]]"
+icon: "interview.gif"
 ---
-![[interview.gif|104]]
+<img src="interview.gif" width="104" alt="interview">
 
-**[[EPISODE]]**
+**[EPISODE](EPISODE.md)**
 
 
 	- GUEST(S) NAME

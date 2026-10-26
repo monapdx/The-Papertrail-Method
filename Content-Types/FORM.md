@@ -6,16 +6,16 @@ CONTAINS:
   - SUBMIT BUTTON TEXT
   - CONFIRMATION MESSAGE
   - RECIPIENT EMAIL ADDRESS
-icon: "[[form.gif]]"
+icon: "form.gif"
 ---
-![[form.gif|113]]
+<img src="form.gif" width="113" alt="form">
 
 
-**[[FORM]]**
+**[FORM](FORM.md)**
 
-**[[EMAIL]]**
+**[EMAIL](EMAIL.md)**
 
-**[[SUBMISSION]]**
+**[SUBMISSION](SUBMISSION.md)**
 
 
 

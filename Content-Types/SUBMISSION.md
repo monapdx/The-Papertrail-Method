@@ -12,11 +12,11 @@ CONTAINS:
   - SUBMISSION CATEGORY
 ---
 
-**[[FORM]]**
+**[FORM](FORM.md)**
 
-**[[EMAIL]]**
+**[EMAIL](EMAIL.md)**
 
-**[[THREAD]]**
+**[THREAD](THREAD.md)**
 
 
 

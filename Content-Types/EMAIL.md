@@ -11,9 +11,9 @@ CONTAINS:
   - MESSAGE CONTENT
   - SIGNATURE
   - ATTACHMENTS
-icon: "[[reply.gif]]"
+icon: "reply.gif"
 ---
-![[reply.gif|131]]
+<img src="reply.gif" width="131" alt="reply">
 
 	- SENDER NAME AND EMAIL ADDRESS
 	- RECIPIENT NAME AND EMAIL ADDRESS
@@ -23,11 +23,11 @@ icon: "[[reply.gif]]"
 	- SIGNATURE [OPTIONAL]
 	- ATTACHMENT FILE NAMES/TYPES [OPTIONAL]
 
-**[[CHARACTER]]**
+**[CHARACTER](CHARACTER.md)**
 
-**[[SUBMISSION]]**
+**[SUBMISSION](SUBMISSION.md)**
 
-**[[FORM]]**
+**[FORM](FORM.md)**
 
 
 

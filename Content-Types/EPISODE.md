@@ -7,9 +7,9 @@ CONTAINS:
   - DATE
   - EPISODE TYPE
   - TRANSCRIPT
-icon: "[[movie.gif]]"
+icon: "movie.gif"
 ---
-![[movie.gif|125]]
+<img src="movie.gif" width="125" alt="movie">
 
 	- NUMBER
 	- TITLE
