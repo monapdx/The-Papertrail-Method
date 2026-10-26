@@ -1,0 +1,20 @@
+---
+CATEGORY: PUBLICATION
+MEDIUM: TRANSCRIPT
+CONTAINS:
+  - GUESTS
+  - HOST
+  - EPISODE NUMBER
+  - TRANSCRIPT
+icon: "[[interview.gif]]"
+---
+![[interview.gif|104]]
+
+**[[EPISODE]]**
+
+
+	- GUEST(S) NAME
+	- HOST NAME
+	- EPISODE NUMBER
+	- TRANSCRIPT
+

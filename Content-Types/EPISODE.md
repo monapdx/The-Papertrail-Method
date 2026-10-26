@@ -1,0 +1,18 @@
+---
+CATEGORY: PUBLICATION
+MEDIUM: TRANSCRIPT
+CONTAINS:
+  - NUMBER
+  - TITLE
+  - DATE
+  - EPISODE TYPE
+  - TRANSCRIPT
+icon: "[[movie.gif]]"
+---
+![[movie.gif|125]]
+
+	- NUMBER
+	- TITLE
+	- DATE
+	- TYPE [OPTIONAL]
+	- TRANSCRIPT

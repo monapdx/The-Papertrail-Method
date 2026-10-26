@@ -1,0 +1,27 @@
+---
+CATEGORY: IDENTITY
+CONTAINS:
+  - CHARACTER NAME
+  - EMAIL ADDRESS
+  - ROLE
+---
+
+**[[EMAIL]]**
+
+**[[ACCOUNT]]**
+
+**[[CHAT]]**
+
+**[[THREAD]]** 
+
+**[[BUSINESS CARD]]**
+
+**[[EPISODE]]**
+
+
+	- NAME
+	- EMAIL ADDRESS
+	- ROLE
+
+
+
