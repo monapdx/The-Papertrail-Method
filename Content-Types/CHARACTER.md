@@ -5,23 +5,23 @@ CONTAINS:
   - EMAIL ADDRESS
   - ROLE
 ---
-
-**[[EMAIL]]**
-
-**[[ACCOUNT]]**
-
-**[[CHAT]]**
-
-**[[THREAD]]** 
-
-**[[BUSINESS CARD]]**
-
-**[[EPISODE]]**
-
-
+	
+	
 	- NAME
 	- EMAIL ADDRESS
 	- ROLE
+
+## RELATED
+
+- [EMAIL](EMAIL.MD)
+- [ACCOUNT](ACCOUNT.MD)
+- [CHAT](CHAT.MD)
+- [THREAD](THREAD.MD)
+- [BUSINESS CARD](BUSINESS-CARD.MD)
+- [EPISODE](EPISODE.MD)
+
+
+
 
 
 
