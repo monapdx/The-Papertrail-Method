@@ -1,6 +1,5 @@
 ---
 CATEGORY: COLLECTION
-MEDIUM:
 CONTAINS:
   - OWNER
   - EMAIL ADDRESS
@@ -11,9 +10,8 @@ ACTIONS:
   - REPLY
   - SCHEDULE
   - ARCHIVE
-icon: "[[mailbox-big.gif]]"
 ---
-![[mailbox-big.gif|115]]
+
 
 
 	- OWNER NAME
@@ -27,11 +25,11 @@ icon: "[[mailbox-big.gif]]"
 		- ARCHIVE
 
 
-**[[EMAIL]]**
+## RELATED
 
-**[[THREAD]]**
-
-**[[SUBMISSION]]**
+- [EMAIL](EMAIL.MD)
+- [THREAD](THREAD.MD)
+- [SUBMISSION](SUBMISSION.MD)
 
 
 
