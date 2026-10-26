@@ -4,9 +4,9 @@ MEDIUM: TEXT
 CONTAINS:
   - SPEAKERS
   - MESSAGES
-icon: "messages-text.gif"
+icon: "../IMAGES/messages-text.gif"
 ---
-![messages-text](messages-text.gif)
+![messages-text](../IMAGES/messages-text.gif)
 
 
 	- SPEAKERS

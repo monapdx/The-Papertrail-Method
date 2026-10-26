@@ -6,9 +6,9 @@ CONTAINS:
   - HOST
   - EPISODE NUMBER
   - TRANSCRIPT
-icon: "interview.gif"
+icon: "../IMAGES/interview.gif"
 ---
-<img src="interview.gif" width="104" alt="interview">
+<img src="../IMAGES/interview.gif" width="104" alt="interview">
 
 **[EPISODE](EPISODE.md)**
 

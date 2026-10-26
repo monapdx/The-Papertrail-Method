@@ -7,9 +7,9 @@ CONTAINS:
   - DECISIONS
   - PATHS
   - OUTCOMES
-icon: "mindmap.gif"
+icon: "../IMAGES/mindmap.gif"
 ---
-<img src="mindmap.gif" width="143" alt="mindmap">
+<img src="../IMAGES/mindmap.gif" width="143" alt="mindmap">
 
 
 	- TITLE

@@ -6,9 +6,9 @@ CONTAINS:
   - SUBMIT BUTTON TEXT
   - CONFIRMATION MESSAGE
   - RECIPIENT EMAIL ADDRESS
-icon: "form.gif"
+icon: "../IMAGES/form.gif"
 ---
-<img src="form.gif" width="113" alt="form">
+<img src="../IMAGES/form.gif" width="113" alt="form">
 
 
 **[FORM](FORM.md)**
