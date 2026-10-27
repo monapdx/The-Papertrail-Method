@@ -145,7 +145,7 @@ You can see these different views as tabs in the screenshot below, which shows P
 
 The producer for my podcast is named Paul, and the host of the podcast is named Derek.
 
-![account-inboxes](../IMAGES/account-inboxes.png)
+![account-inboxes](https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/account-inboxes.png)
 
 You can also see the workflow here, showing that any new issue (submission) gets automatically sent to Paul's Inbox.
 
