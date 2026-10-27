@@ -133,7 +133,7 @@ Email  body text goes here.
 
 Use filtered GitHub Project views to simulate **[ACCOUNT](../Content-Types/ACCOUNT.md)** inboxes.
 
-![github-projects](../IMAGES/github-projects.png)
+![github-projects](https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/github-projects.png)
 
 As you can see in the screenshot, the submissions are listed and the label identifies which type of submission each one is. The status column lists which Account the email is currently sitting in.
 
