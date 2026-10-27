@@ -1,13 +1,6 @@
----
-notelet: true
-notelet-version: 1
-source-file: "dereks-spreadsheet.html"
-imported: "2026-10-24T03:00:05.013Z"
----
-
 See below for an example of a **[SPREADSHEET](../Content-Types/SPREADSHEET.md)**.
 
-```notelet
+```html
 <!doctype html>
 <html lang="en">
 <head>
