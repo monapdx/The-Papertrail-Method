@@ -6,22 +6,16 @@ CONTAINS:
   - ROLE
 ---
 
-**[EMAIL](EMAIL.md)**
-
-**[ACCOUNT](ACCOUNT.md)**
-
-**[CHAT](CHAT.md)**
-
-**[THREAD](THREAD.md)** 
-
-**[BUSINESS CARD](BUSINESS%20CARD.md)**
-
-**[EPISODE](EPISODE.md)**
-
-
 	- NAME
 	- EMAIL ADDRESS
 	- ROLE
 
+## RELATED
 
+- **[EMAIL](EMAIL.md)**
+- **[ACCOUNT](ACCOUNT.md)**
+- **[CHAT](CHAT.md)**
+- **[THREAD](THREAD.md)** 
+- **[BUSINESS CARD](BUSINESS%20CARD.md)**
+- **[EPISODE](EPISODE.md)**
 
