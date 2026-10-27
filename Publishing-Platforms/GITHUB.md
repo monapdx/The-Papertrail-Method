@@ -149,7 +149,7 @@ The producer for my podcast is named Paul, and the host of the podcast is named 
 
 You can also see the workflow here, showing that any new issue (submission) gets automatically sent to Paul's Inbox.
 
-![project-default-workflows](../IMAGES/project-default-workflows.png)
+![project-default-workflows](https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/project-default-workflows.png)
 
 You can include the text for each episode or other type of publication as a markdown (.md) file, but if you want more control and advanced formatting for the episodes hosted on the GitHub Pages website, then you should create an HTML file for each one also.
 
