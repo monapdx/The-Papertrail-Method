@@ -1,13 +1,6 @@
----
-notelet: true
-notelet-version: 1
-source-file: "internal-chat.html"
-imported: "2026-10-24T02:58:43.500Z"
----
-
 See below for an example of a **[CHAT](../Content-Types/CHAT.md)**.
 
-```notelet
+```html
 <!doctype html>
 <html lang="en">
 <head>
