@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/paper-plane.gif" height="200"> ## **The Papertrail Method**  
+ ## **The Papertrail Method**  <img src="https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/paper-plane.gif" height="200">
 _Build the system. Follow the paper trail._
 
 A reusable writing method for creating stories through the records people and organizations produce: submissions, emails, schedules, scripts, reports, and more. Define who receives information, what they can do with it, and what happens next. Each action leaves a trace—and moves the story forward.
