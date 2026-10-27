@@ -1,13 +1,6 @@
----
-notelet: true
-notelet-version: 1
-source-file: "episode-11.html"
-imported: "2026-10-24T03:04:26.656Z"
----
-
 See below for an example of an **[INTERVIEW](../Content-Types/INTERVIEW.md)** episode.
 
-```notelet
+```html
 <!doctype html>
 <html lang="en">
 <head>
