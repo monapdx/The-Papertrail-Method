@@ -6,20 +6,7 @@ CONTAINS:
   - SUBMIT BUTTON TEXT
   - CONFIRMATION MESSAGE
   - RECIPIENT EMAIL ADDRESS
-icon: "../IMAGES/form.gif"
 ---
-<img src="../IMAGES/form.gif" width="113" alt="form">
-
-
-**[FORM](FORM.md)**
-
-**[EMAIL](EMAIL.md)**
-
-**[SUBMISSION](SUBMISSION.md)**
-
-
-
-
 
 	- TITLE
 	- FIELDS
@@ -30,4 +17,10 @@ icon: "../IMAGES/form.gif"
 	- SUBMIT BUTTON TEXT
 	- CONFIRMATION MESSAGE [OPTIONAL]
 	- RECIPIENT EMAIL ADDRESS [OPTIONAL]
+
+## RELATED
+
+- **[FORM](FORM.md)**
+- **[EMAIL](EMAIL.md)**
+- **[SUBMISSION](SUBMISSION.md)**
 
