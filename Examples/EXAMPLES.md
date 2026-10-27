@@ -1,14 +1,7 @@
----
-notelet: true
-notelet-version: 1
-source-file: "simulated-interfaces.html"
-imported: "2026-10-24T02:57:12.303Z"
----
-
 Below are some helpful examples of simulated **[CONTENT TYPES](../Content-Types/CONTENT%20TYPES.md)**.
 
 
-```notelet
+```html
 <!doctype html>
 <html lang="en">
 <head>
