@@ -1,5 +1,7 @@
 See below for an example of a **[CHAT](../Content-Types/CHAT.md)**.
 
+<img src="https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/internal-chat.gif">
+
 ```html
 <!doctype html>
 <html lang="en">
