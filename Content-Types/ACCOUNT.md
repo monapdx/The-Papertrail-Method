@@ -11,10 +11,7 @@ ACTIONS:
   - REPLY
   - SCHEDULE
   - ARCHIVE
-icon: "../IMAGES/mailbox-big.gif"
 ---
-<img src="../IMAGES/mailbox-big.gif" width="115" alt="mailbox-big">
-
 
 	- OWNER NAME
 	- EMAIL ADDRESS
@@ -26,12 +23,11 @@ icon: "../IMAGES/mailbox-big.gif"
 		- SCHEDULE
 		- ARCHIVE
 
+## RELATED
 
-**[EMAIL](EMAIL.md)**
-
-**[THREAD](THREAD.md)**
-
-**[SUBMISSION](SUBMISSION.md)**
+- **[EMAIL](EMAIL.md)**
+- **[THREAD](THREAD.md)**
+- **[SUBMISSION](SUBMISSION.md)**
 
 
 
