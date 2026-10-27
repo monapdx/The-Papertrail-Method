@@ -1,6 +1,6 @@
  ## **The Papertrail Method**  
 
-<img src="Images/paper-plane.gif" alt="Paper plane" align="left" width="200">
+<img src="Images/paper-plane.gif" alt="Paper plane" align="left" width="150">
 
  _Build the system. Follow the paper trail._
 
