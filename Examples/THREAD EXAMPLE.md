@@ -1,13 +1,6 @@
----
-notelet: true
-notelet-version: 1
-source-file: "guest-pitch-dr-alters-electrocution.html"
-imported: "2026-10-24T03:01:44.323Z"
----
-
 See below for an example of a **[THREAD](../Content-Types/THREAD.md)**.
 
-```notelet
+```html
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
