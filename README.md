@@ -1,4 +1,4 @@
-![Description of image](https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/paper-plane.gif)
+<img src="https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/paper-plane.gif" height="200">
 
 ## **The Papertrail Method**  
 _Build the system. Follow the paper trail._
