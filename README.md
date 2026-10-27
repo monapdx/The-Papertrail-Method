@@ -1,5 +1,7 @@
  ## **The Papertrail Method**  
 
+<img src="https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/The%20Papertrail%20Method.png">
+
 <img src="Images/paper-plane.gif" alt="Paper plane" align="left" width="150">
 
  _Build the system. Follow the paper trail._
