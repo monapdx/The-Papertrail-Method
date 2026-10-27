@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/obsidian.png" height=""324">
+<img src="https://raw.githubusercontent.com/monapdx/The-Papertrail-Method/refs/heads/main/Images/obsidian.png" height="324">
 
 While Obsidian requires plugins to achieve the same types of functionality that Github offers natively when it comes to including forms and creating specific types of content based on submitting them, it's a great place for authoring episodes and creating the same fundamental folder structure as a Github repo.
 
