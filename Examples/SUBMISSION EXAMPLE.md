@@ -1,13 +1,6 @@
----
-notelet: true
-notelet-version: 1
-source-file: "submission.html"
-imported: "2026-10-24T03:00:55.727Z"
----
-
 See below for an example of a **[SUBMISSION](../Content-Types/SUBMISSION.md)**.
 
-```notelet
+```html
 <!doctype html>
 <html lang="en">
 <head>
