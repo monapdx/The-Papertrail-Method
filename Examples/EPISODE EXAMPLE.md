@@ -1,12 +1,7 @@
----
-notelet: true
-notelet-version: 1
-source-file: "episode-2.html"
-imported: "2026-10-24T03:03:51.439Z"
----
-
 See below for an example of an **[EPISODE](../Content-Types/EPISODE.md)**.
-```notelet
+
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
