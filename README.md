@@ -14,7 +14,7 @@ The result is **systemic fiction**: storytelling through the workings of an imag
 
 Readers discover the world and its characters by following the traces they leave behind.
 
-[![CONTENT TYPES](./Images/demo-button.svg)](https://github.com/monapdx/The-Papertrail-Method/Content-Types/) [![CONTENT CATEGORIES](<Images/demo-button.svg>)](<https://github.com/monapdx/The-Papertrail-Method/Content-Categories/>)
+[![CONTENT TYPES](./Images/demo-button.svg)](https://github.com/monapdx/The-Papertrail-Method/Content-Types/) [![CONTENT CATEGORIES](<Images/categories.svg>)](<https://github.com/monapdx/The-Papertrail-Method/Content-Categories/>)
 
 ## CONTENT TYPES
 
