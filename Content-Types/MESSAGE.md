@@ -1,0 +1,20 @@
+---
+CATEGORY: ARTIFACT
+MEDIUM: TEXT
+CONTAINS:
+  - DATE/TIME
+  - SENDER PHONE NUMBER
+  - RECIPIENT PHONE NUMBER
+  - MESSAGE
+---
+
+**MESSAGE**
+
+A text message exchanged between two phone numbers.
+
+- DATE/TIME
+- SENDER PHONE NUMBER
+- RECIPIENT PHONE NUMBER
+- MESSAGE
+
+All fields are required.
