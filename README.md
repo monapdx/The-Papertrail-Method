@@ -36,6 +36,9 @@ Readers discover the world and its characters by following the traces they leave
 | **[SPREADSHEET](Content-Types/SPREADSHEET.md)**   | An artifact that can contain data entries in a table format             | **[ARTIFACT](Content-Categories/ARTIFACT.md)**      | Allows the reader to see what information is collected and how it is categorized       |
 | **[BUSINESS CARD](Content-Types/BUSINESS%20CARD.md)** | An artifact that contains information about a character                 | **[ARTIFACT](Content-Categories/ARTIFACT.md)**      | Establishes character identities and information about their roles                     |
 | **[DOCUMENT](Content-Types/DOCUMENT.md)**      | An general purpose artifact containing any text or content              | **[ARTIFACT](Content-Categories/ARTIFACT.md)**      | Acts as a container for content that isn't specified in any other available format     |
+| **[MESSAGE](Content-Types/MESSAGE.md)** | A text message exchanged between two phone numbers | **[ARTIFACT](Content-Categories/ARTIFACT.md)** | Records what one person sent to another and when |
+| **[RECEIPT](Content-Types/RECEIPT.md)** | An itemized record of a retail transaction | **[ARTIFACT](Content-Categories/ARTIFACT.md)** | Shows what was bought, what each item cost, and how much was paid |
+| **[CALL](Content-Types/CALL.md)** | A log entry for an incoming or outgoing phone call | **[ARTIFACT](Content-Categories/ARTIFACT.md)** | Shows when a call occurred and whether it was received or missed |
 | **[CHARACTER](Content-Types/CHARACTER.md)**     | A character in a story                                                  | **[IDENTITY](Content-Categories/IDENTITY.md)**      | Anchors every artifact and communication to an established identity                    |
 | **[ORGANIZATION](Content-Types/ORGANIZATION.md)**  | The fictional organization that your story is told through              | **[IDENTITY](Content-Categories/IDENTITY.md)**      | The main storytelling engine for the entire method                                     |
 
@@ -49,7 +52,7 @@ Readers discover the world and its characters by following the traces they leave
 | **[IDENTITY](Content-Categories/IDENTITY.md)**      | **[CHARACTER](Content-Types/CHARACTER.md)**, **[ORGANIZATION](Content-Types/ORGANIZATION.md)**                                         |
 | **[INTERACTIVE](Content-Categories/INTERACTIVE.md)**   | **[FORM](Content-Types/FORM.md)**                                                                    |
 | **[COLLECTION](Content-Categories/COLLECTION.md)**    | **[ACCOUNT](Content-Types/ACCOUNT.md)**, **[THREAD](Content-Types/THREAD.md)**                                                 |
-| **[ARTIFACT](Content-Categories/ARTIFACT.md)**      | **[BUSINESS CARD](Content-Types/BUSINESS%20CARD.md)**, **[DOCUMENT](Content-Types/DOCUMENT.md)**, **[FLOWCHART](Content-Types/FLOWCHART.md)**, **[SPREADSHEET](Content-Types/SPREADSHEET.md)** |
+| **[ARTIFACT](Content-Categories/ARTIFACT.md)**      | **[BUSINESS CARD](Content-Types/BUSINESS%20CARD.md)**, **[DOCUMENT](Content-Types/DOCUMENT.md)**, **[FLOWCHART](Content-Types/FLOWCHART.md)**, **[SPREADSHEET](Content-Types/SPREADSHEET.md)**, **[MESSAGE](Content-Types/MESSAGE.md)**, **[RECEIPT](Content-Types/RECEIPT.md)**, **[CALL](Content-Types/CALL.md)** |
 |                       |                                                                                 |
 
 ## EXAMPLES
